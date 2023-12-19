@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Admirable Friend</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="friend-profile">
+    <h1>Meet My Admirable Friend</h1>
+    <img src="friend_image.jpg" alt="Friend Image" class="friend-image">
+    <div class="qualities">
+      <h2>Admirable Qualities:</h2>
+      <p>My friend, Mohan, is incredibly strong<span class="highlight">kind-hearted</span> and always ready to help others. Their <span class="highlight">positive attitude</span> is infectious and brightens everyone's day. They have an insatiable <span class="highlight">curiosity</span> about the world and a passion for learning.</p>
+      <p>Mohan is an amazing <span class="highlight">listener</span>, providing unwavering support and understanding. Their <span class="highlight">creativity</span> shines through their artwork, and their determination to achieve their goals is truly inspiring.</p>
+    </div>
+  </div>
+</body>
+</html>
